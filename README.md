@@ -17,7 +17,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 
-</h2>What Data Will I Use in This Competition?</h2>
+<h2>What Data Will I Use in This Competition?</h2>
 
 
 In this competition, you’ll gain access to two similar datasets that include passenger information like name, age, gender, socio-economic class, etc. One dataset is titled `train.csv` and the other is titled `test.csv`.
